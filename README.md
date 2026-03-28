@@ -8,7 +8,7 @@ This project explores how the median income of U.S. householders varies across t
 
 🔗 Retool App: https://nrashha26.retool.com/embedded/public/1d98e460-dd5d-43a2-b545-84b704dc2e9c/page1
 
-🔗 Shiny (R) App: https://mariakhan.shinyapps.io/peer-project-econ-bros/
+🔗 Shiny (R) App (In collobration with Deshan DeMel and Maria Khan): https://mariakhan.shinyapps.io/peer-project-econ-bros/
 
 ## Features:
 
